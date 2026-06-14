@@ -1,0 +1,30 @@
+1.	The submission uses React for the frontend.
+2.	The submission uses Node.js for the backend.
+3.	The submission uses Express.js for API routes.
+4.	The submission uses MongoDB for application data.
+5.	The registration form includes a name field.
+6.	The registration form includes an email field.
+7.	The registration form includes a password field.
+8.	The submission stores passwords as bcrypt hashes.
+9.	The login flow issues a JWT token.
+10.	The submission provides a logout action.
+11.	The submission allows rivalry creation.
+12.	The submission supports rivalry invite by email.
+13.	The submission supports rivalry join by invite code.
+14.	The dashboard displays user rivalries.
+15.	The submission allows game creation inside a rivalry.
+16.	The submission allows game name editing.
+17.	The submission allows game removal.
+18.	The match form includes a game selector.
+19.	The match form includes a winner selector.
+20.	The match form includes a date field.
+21.	The match form includes an optional note field.
+22.	The submission allows match record editing.
+23.	The submission allows match record deletion.
+24.	The scoreboard displays total wins per member.
+25.	The scoreboard displays game wise wins per member.
+26.	The submission displays current win streaks.
+27.	The submission displays match history.
+28.	The profile page displays user stats.
+29.	The interface has no overlapping content.
+30.	The final delivery includes a deployed demo link.

@@ -1,0 +1,37 @@
+PROJECT NAME: Rivalry Tracker
+
+CATEGORY: Web Development - Online Gaming Website (Fenrir Project)
+
+OVERVIEW
+
+Rivalry Tracker is a web platform built for friends, siblings, roommates, and gaming groups who play multiple games together and want a permanent record of who's actually winning their ongoing rivalry. Instead of bragging rights being based on memory or disputes after each session, Rivalry Tracker keeps a persistent, automatically updated scorecard across every game and every match, year after year.
+
+PROBLEM STATEMENT
+
+Casual gaming groups often play a mix of games - FIFA, chess, Mario Kart, COD, carrom, etc. but have no system to track overall standings across all of them. Scores are forgotten, "who's winning" becomes a constant argument, and there's no historical record of past matchups or memorable wins.
+
+SOLUTION
+
+A simple, lightweight web app where users create a "Rivalry" (a group of 2 or more people), add the games they want to track, log match results as they happen, and instantly see an all time scorecard total wins, per-game breakdowns, current win streaks, and a full match history with optional comments/trash talk.
+
+TARGET USERS
+
+Friend groups, siblings, roommates, and couples who regularly play games together and enjoy ongoing competitive banter.
+
+CORE FEATURES (MVP)
+
+- User registration and login
+- Create or join a Rivalry group (2+ members)
+- Add/manage games tracked within a rivalry
+- Log match results (winner, game, date, optional notes)
+- Auto-calculated overall scorecard (total wins, per-game wins)
+- Win streak tracking
+- Match history feed with comments
+
+TECH STACK
+
+MERN (MongoDB, Express.js, React, Node.js)
+
+UNIQUE VALUE PROPOSITION
+
+Unlike gaming stores, review sites, or esports tournament platforms, Rivalry Tracker focuses on the personal, long-term rivalry between specific people - turning everyday gaming sessions into an ongoing competitive story.
